@@ -1,0 +1,10 @@
+[
+    {
+        "view_Name": "city_view",
+        "mapping_Json_File": "2_ListView_city_view.json"
+    },
+    {
+        "view_Name": "country_view",
+        "mapping_Json_File": "2_ListView_country_view.json"
+    }
+]

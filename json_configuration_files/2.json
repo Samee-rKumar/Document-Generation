@@ -1,0 +1,18 @@
+[
+    {
+        "db_col_name": "name",
+        "macro_Name": "name"
+    },
+    {
+        "db_col_name": "population",
+        "macro_Name": "population"
+    },
+    {
+        "db_col_name": "country_name",
+        "macro_Name": "country_name"
+    },
+    {
+        "db_col_name": "languages",
+        "macro_Name": "languages"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "column_name": "Name",
+        "db_Col_Name": "name",
+        "col_width": "",
+        "alignemt": "left"
+    },
+    {
+        "column_name": "Population",
+        "db_Col_Name": "population",
+        "col_width": "",
+        "alignemt": "left"
+    }
+]
